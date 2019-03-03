@@ -7,3 +7,9 @@ Autor:
 -----
     * YefimAngel
     
+
+ Creditos:
+ ---------
+
+ *Rosa Maria Palacios
+ *Barata    
