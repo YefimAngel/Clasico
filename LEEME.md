@@ -7,17 +7,16 @@ Autor:
 -----
     * YefimAngel
 
-
- Notas de la version:
+Notas de la version:
 ---------------------
 
-*cambios que no son seguros
+	*cambios que no son seguros
 
 
     
 
- Creditos:
- ---------
+Creditos:
+---------
 
  *Rosa Maria Palacios
  *Barata    
